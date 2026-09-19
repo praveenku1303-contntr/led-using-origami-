@@ -37,7 +37,7 @@
 * **Avoid connecting two or more leds in battery.**  
 * **Carefully connect the led and the battery using foil paper .**
 
-**![result](working model led.jpeg)
+![Result].(working model led.jpeg).
 
 **![][image2]**
 
