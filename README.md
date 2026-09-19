@@ -39,7 +39,7 @@
 
 ##[Result];
 
-![Result].(working model led.jpeg).
+![image1].(working model led.jpeg).
 
 **![][image2]**
 
