@@ -38,7 +38,8 @@
 * **Carefully connect the led and the battery using foil paper .**
 
 
-**![working model](working model led.jpeg)**
+**![working model](working model led.jpeg
+)**
 
 **![][image2]**
 
